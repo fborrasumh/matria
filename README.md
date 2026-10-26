@@ -4,6 +4,8 @@ Una colega de IA para el personal técnico del parque científico. Aplicación w
 
 **Usar la app:** https://fborrasumh.github.io/matria/
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23660845.svg)](https://doi.org/10.5281/zenodo.23660845)
+
 **Idiomas:** español (por defecto), inglés y portugués; selector en la barra superior (o `?lang=en` / `?lang=pt` en la URL).
 
 ## Qué hace
@@ -59,7 +61,7 @@ ORCID: Fernando Borrás Rocher [0000-0002-5519-4573](https://orcid.org/0000-0002
 
 ## Cómo citar
 
-Borrás Rocher, F. (2026). *MatrIA* (v1.0.0) [Software]. (DOI en trámite)
+Borrás Rocher, F. (2026). *MatrIA* (v1.0.0) [Software]. DOI: [10.5281/zenodo.23660845](https://doi.org/10.5281/zenodo.23660845)
 
 ## Licencia
 
